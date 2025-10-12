@@ -1,12 +1,24 @@
-# React + Vite
+# To-Do App 📝
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **responsive React-based To-Do application** designed to help you manage tasks efficiently while learning core React concepts. The app features **sound effects**, persistent **local storage**, and a clean, modern UI.
 
-Currently, two official plugins are available:
+![To-Do App Screenshot](assets/ss5.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features ✨
+- **Add, edit, and delete tasks**  
+- **Persistent storage** using local storage  
+- **Sound effects** for task actions (add, delete, complete)  
+- **Responsive design** for desktop and mobile  
+- Built with **React.js** to practice components, state, and props  
 
-## Expanding the ESLint configuration
+## Tech Stack 🛠️
+- **React.js** – Frontend library for building UI  
+- **HTML5 & CSS3** – Structure and styling  
+- **JavaScript** – Application logic  
+- **LocalStorage API** – Save tasks persistently  
+- **Sound effects** – Interactive task feedback  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## How to Run 🚀
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/ATULJHAgh/ToDo-App.git
